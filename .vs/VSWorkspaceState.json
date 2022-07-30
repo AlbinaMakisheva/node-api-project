@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\node1"
   ],
+  "SelectedNode": "\\node1\\greeting.js",
   "PreviewInSolutionExplorer": false
 }
